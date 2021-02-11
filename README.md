@@ -7,6 +7,8 @@ The app includes a QR code on each business card that links to hosted webpage de
 
 The app also has NFC capability to accomplish the same procedure as above.
 
+Projected URL: cardsapp.io
+
 Simple Business Card Networking App for Application Development practice.
 
 Based on https://blue.social/about/
